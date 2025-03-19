@@ -11,3 +11,14 @@ activate.adobe.com
 
 # Tailscale
 tailscale.com
+log.tailscale.com
+pkgs.tailscale.com
+
+# Proton
+vpn-api.proton.me
+
+# Instagram
+graph.instagram.com
+
+# Schibsted
+dc.schibsted.io
