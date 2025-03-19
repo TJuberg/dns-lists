@@ -22,3 +22,4 @@ graph.instagram.com
 
 # Schibsted
 dc.schibsted.io
+minside.adressa.no
