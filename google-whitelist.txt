@@ -1,0 +1,56 @@
+# Whitelist based on https://support.google.com/work/android/answer/10513641?hl=en
+# Some lists are a bit too eager on blocking domains that cause issues for home-office and 
+# legitimate domains needed for proper function
+#
+# Also includes other 
+
+play.google.com
+android.com
+googleusercontent.com
+*.gstatic.com
+*.gvt1.com
+*.gvt2.com
+*.gvt3.com
+*.ggpht.com
+dl.google.com
+dl-ssl.google.com
+android.apis.google.com
+accounts.google.com
+accounts.google.no
+fcm.googleapis.com
+fcm-xmpp.googleapis.com
+firebaseinstallations.googleapis.com
+fcm-xmpp.googleapis.com
+gcm-xmpp.googleapis.com
+pki.google.com
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+clients6.google.com
+chromiumdash.appspot.com
+android.apis.google.com
+connectivitycheck.android.com
+connectivitycheck.gstatic.com
+www.google.com
+ota.googlezip.net
+ota-cache1.googlezip.net
+ota-cache2.googlezip.net
+mtalk.google.com
+mtalk4.google.com
+mtalk-staging.google.com
+mtalk-dev.google.com
+alt1-mtalk.google.com
+alt2-mtalk.google.com
+alt3-mtalk.google.com
+alt4-mtalk.google.com
+alt5-mtalk.google.com
+alt6-mtalk.google.com
+alt7-mtalk.google.com
+alt8-mtalk.google.com
+android.apis.google.com
+device-provisioning.googleapis.com
+time.google.com
+android-safebrowsing.google.com
+safebrowsing.google.com
