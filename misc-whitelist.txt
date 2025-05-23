@@ -9,9 +9,6 @@ stats.streamelements.com
 lm.licenses.adobe.com
 activate.adobe.com
 
-# Tailscale
-(\.|^)tailscale\.com$
-
 # Proton
 vpn-api.proton.me
 
@@ -26,7 +23,6 @@ sdk.pulse.schibsted.com
 sdkconfig.pulse.schibsted.io
 
 
-(\.|^)piano\.io$
 trygvesta.d1.sc.omtrdc.net
 
 
@@ -40,9 +36,6 @@ www.treasuredata.com
 7ba3f64df98de730df38846b54ecfbdf7f61f80f.cws.conviva.com
 sanalytics.disneyplus.com
 
-# NTP
-(\.|^)ntp\.org$
-
 # Playstation
 telemetry-console.api.playstation.com
 smetrics.aem.playstation.com
@@ -51,10 +44,6 @@ smetrics.aem.playstation.com
 arc.msn.com
 
 # MS
-(\.|^)activity\.windows\.com$
-(\.|^)flightproxy\.teams\.microsoft\.com$
-(\.|^)graph\.microsoft\.com$
-(\.|^)substrate\.office\.com$
 aad.cs.dds.microsoft.com
 bbrowser.pipe.aria.microsoft.com
 da.xboxservices.com
@@ -84,16 +73,11 @@ fonts.gstatic.com
 gstaticadssl.l.google.com
 s.youtube.com
 
-(\.|^)akamaihd\.net$
-(\.|^)akamaitechnologies\.com$
-(\.|^)akamaized\.net$
-
 audible.sc.omtrdc.net
 unagi-na.amazon.com
 msh.amazon.co.uk
 fls-na.amazon.com
 
-(\.|^)pardot\.com$
 api.segment.io
 auth.split.io
 events.split.io
@@ -105,8 +89,6 @@ bdcore-apr-lb.bda.ndmdhs.com
 
 nrkstream.tns-cs.net
 ssl-nrkstream.tns-cs.net
-
-(\.|^)homey\.app$
 
 learn.cisecurity.org
 
@@ -145,5 +127,3 @@ telemetry.proton.me
 
 ichnaea.netflix.com
 logs.netflix.com
-
-(\.|^)cribl\.cloud$
