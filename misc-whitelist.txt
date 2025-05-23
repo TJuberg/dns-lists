@@ -10,9 +10,7 @@ lm.licenses.adobe.com
 activate.adobe.com
 
 # Tailscale
-tailscale.com
-log.tailscale.com
-pkgs.tailscale.com
+(\.|^)tailscale\.com$
 
 # Proton
 vpn-api.proton.me
@@ -21,5 +19,131 @@ vpn-api.proton.me
 graph.instagram.com
 
 # Schibsted
+cdn.stream.schibsted.media
 dc.schibsted.io
 minside.adressa.no
+sdk.pulse.schibsted.com
+sdkconfig.pulse.schibsted.io
+
+
+(\.|^)piano\.io$
+trygvesta.d1.sc.omtrdc.net
+
+
+# TD-Agent
+docs.treasuredata.com
+packages.treasuredata.com
+toolbelt.treasuredata.com
+www.treasuredata.com
+
+# Disney
+7ba3f64df98de730df38846b54ecfbdf7f61f80f.cws.conviva.com
+sanalytics.disneyplus.com
+
+# NTP
+(\.|^)ntp\.org$
+
+# Playstation
+telemetry-console.api.playstation.com
+smetrics.aem.playstation.com
+
+# MS Content delivery (Spotlight metadata, suggested apps, MS Account notifiations and Windows tips ++)
+arc.msn.com
+
+# MS
+(\.|^)activity\.windows\.com$
+(\.|^)flightproxy\.teams\.microsoft\.com$
+(\.|^)graph\.microsoft\.com$
+(\.|^)substrate\.office\.com$
+aad.cs.dds.microsoft.com
+bbrowser.pipe.aria.microsoft.com
+da.xboxservices.com
+dlassets-ssl.xboxlive.com
+eu-mobile.events.data.microsoft.com
+eu-office.events.data.microsoft.com
+inference.location.live.net
+m365.cloud.microsoft
+mobile.pipe.aria.microsoft.com
+pipe.skype.com
+self.events.data.microsoft.com
+teams.events.data.microsoft.com
+vortex.data.microsoft.com
+
+# Google
+^beacons[0-9]+\.gvt2.com$
+ajax.googleapis.com
+androidtvchannels-pa.googleapis.com
+appsbackup-pa.clients6.google.com
+appsbackup-pa.googleapis.com
+beacons.gcp.gvt2.com
+beacons.gvt2.com
+beacons5.gvt3.com
+crashlyticsreports-pa.googleapis.com
+firebaselogging.googleapis.com
+fonts.gstatic.com
+gstaticadssl.l.google.com
+s.youtube.com
+
+(\.|^)akamaihd\.net$
+(\.|^)akamaitechnologies\.com$
+(\.|^)akamaized\.net$
+
+audible.sc.omtrdc.net
+unagi-na.amazon.com
+msh.amazon.co.uk
+fls-na.amazon.com
+
+(\.|^)pardot\.com$
+api.segment.io
+auth.split.io
+events.split.io
+sdk.split.io
+streaming.split.io
+tags.tiqcdn.com
+
+bdcore-apr-lb.bda.ndmdhs.com
+
+nrkstream.tns-cs.net
+ssl-nrkstream.tns-cs.net
+
+(\.|^)homey\.app$
+
+learn.cisecurity.org
+
+assets.adobedtm.com
+
+service.force.com
+
+www1.hboxmax.com
+
+ota-cdn.memfault.com
+
+device.cloud.remarkable.com
+
+cdn.optimizely.com
+
+analytics.samsungknox.com
+dc.dqa.samsung.com
+gear.sca.samsung.com
+lcprd1.samsungcloudsolution.net
+oempprd.samsungcloudsolution.com
+sca.samsung.com
+
+mktg.tags.f5.com
+
+webhook.logentries.com
+
+eu1.clevertap-prod.com
+
+data.nrk.no
+
+yum.datadoghq.com
+yum.vector.dev
+
+protonvpn.com
+telemetry.proton.me
+
+ichnaea.netflix.com
+logs.netflix.com
+
+(\.|^)cribl\.cloud$
