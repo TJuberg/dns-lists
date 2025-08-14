@@ -57,6 +57,11 @@ pipe.skype.com
 self.events.data.microsoft.com
 teams.events.data.microsoft.com
 vortex.data.microsoft.com
+exo.nel.measure.office.net
+m365cdn.nel.measure.office.net
+teams.nel.measure.office.net
+telem-edge.smartscreen.microsoft.com
+
 
 # Google
 ^beacons[0-9]+\.gvt2.com$
