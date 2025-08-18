@@ -62,22 +62,6 @@ m365cdn.nel.measure.office.net
 teams.nel.measure.office.net
 telem-edge.smartscreen.microsoft.com
 
-
-# Google
-^beacons[0-9]+\.gvt2.com$
-ajax.googleapis.com
-androidtvchannels-pa.googleapis.com
-appsbackup-pa.clients6.google.com
-appsbackup-pa.googleapis.com
-beacons.gcp.gvt2.com
-beacons.gvt2.com
-beacons5.gvt3.com
-crashlyticsreports-pa.googleapis.com
-firebaselogging.googleapis.com
-fonts.gstatic.com
-gstaticadssl.l.google.com
-s.youtube.com
-
 audible.sc.omtrdc.net
 unagi-na.amazon.com
 msh.amazon.co.uk
