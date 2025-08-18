@@ -4,6 +4,7 @@
 
 @@||accounts.google.com^
 @@||accounts.google.no^
+@@||ajax.googleapis.com^
 @@||alt1-mtalk.google.com^
 @@||alt2-mtalk.google.com^
 @@||alt3-mtalk.google.com^
@@ -15,7 +16,23 @@
 @@||android-safebrowsing.google.com^
 @@||android.apis.google.com^
 @@||android.com^
+@@||androidtvchannels-pa.googleapis.com^
 @@||apis.google.com^
+@@||appsbackup-pa.clients6.google.com^
+@@||appsbackup-pa.googleapis.com^
+@@||beacons.gcp.gvt2.com^
+@@||beacons.gvt2.com^
+@@||beacons0.gvt2.com^
+@@||beacons1.gvt2.com^
+@@||beacons2.gvt2.com^
+@@||beacons3.gvt2.com^
+@@||beacons4.gvt2.com^
+@@||beacons5.gvt2.com^
+@@||beacons5.gvt3.com^
+@@||beacons6.gvt2.com^
+@@||beacons7.gvt2.com^
+@@||beacons8.gvt2.com^
+@@||beacons9.gvt2.com^
 @@||chromiumdash.appspot.com^
 @@||clients1.google.com^
 @@||clients2.google.com^
@@ -26,6 +43,7 @@
 @@||connectivitycheck.android.com^
 @@||connectivitycheck.gstatic.com^
 @@||content-autofill.googleapis.com^
+@@||crashlyticsreports-pa.googleapis.com^
 @@||csp.withgoogle.com^
 @@||device-provisioning.googleapis.com^
 @@||dl-ssl.google.com^
@@ -37,6 +55,7 @@
 @@||fcm-xmpp.googleapis.com^
 @@||fcm.googleapis.com^
 @@||firebaseinstallations.googleapis.com^
+@@||firebaselogging.googleapis.com^
 @@||fonts.googleapis.com^
 @@||fonts.gstatic.com^
 @@||gcm-xmpp.googleapis.com^
@@ -45,6 +64,7 @@
 @@||googleads.g.doubleclick.net^
 @@||googleusercontent.com^
 @@||gstatic.com^
+@@||gstaticadssl.l.google.com^
 @@||gvt1.com^
 @@||gvt2.com^
 @@||i.ytimg.com^
@@ -66,6 +86,7 @@
 @@||ota.googlezip.net^
 @@||pki.google.com^
 @@||play.google.com^
+@@||s.youtube.com^
 @@||safebrowsing.google.com^
 @@||ssl.gstatic.com^
 @@||static.doubleclick.net^
